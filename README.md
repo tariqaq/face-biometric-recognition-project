@@ -1,70 +1,70 @@
-\# Face Biometric Recognition Performance Analysis
+# Face Biometric Recognition Performance Analysis
 
 
 
-\## Project Title
+## Project Title
 
 Face Biometric Recognition Performance Analysis
 
 
 
-\## Research Problem
+## Research Problem
 
 Face biometric recognition systems may produce incorrect recognition due to low similarity score, poor image quality, lighting condition, or facial variation.
 
 
 
-\## Research Objective
+## Research Objective
 
 To analyse the performance of a face biometric recognition system using prediction result, similarity score, and accuracy.
 
 
 
-\## Research Question
+## Research Question
 
 What is the accuracy level of the face biometric recognition system based on the tested dataset?
 
 
 
-\## Methodology
+## Methodology
 
 This project uses a quantitative experimental research approach. A sample face recognition dataset is analysed using Python. The actual identity and predicted identity are compared to determine whether the recognition result is correct or incorrect.
 
 
 
-\## Dataset Description
+## Dataset Description
 
 The dataset contains:
 
 
 
-\- SampleID
+- SampleID
 
-\- ActualIdentity
+- ActualIdentity
 
-\- PredictedIdentity
+- PredictedIdentity
 
-\- SimilarityScore
+- SimilarityScore
 
-\- RecognitionStatus
-
-
-
-\## Tools Used
-
-\- Python
-
-\- Pandas
-
-\- Matplotlib
-
-\- Scikit-learn
-
-\- GitHub
+- RecognitionStatus
 
 
 
-\## How to Run the Project
+## Tools Used
+
+- Python
+
+- Pandas
+
+- Matplotlib
+
+- Scikit-learn
+
+- GitHub
+
+
+
+## How to Run the Project
 
 
 
@@ -99,6 +99,3 @@ The project generates:
 Conclusion
 
 The face biometric recognition system achieved 80% accuracy based on the sample dataset. This indicates that the system has moderate recognition performance.
-
-
-
