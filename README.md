@@ -96,6 +96,6 @@ The project generates:
 
 •	Similarity score chart
 
-Conclusion
+## Conclusion
 
 The face biometric recognition system achieved 80% accuracy based on the sample dataset. This indicates that the system has moderate recognition performance.
